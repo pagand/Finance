@@ -1,9 +1,15 @@
 import json
 import matplotlib.pyplot as plt
 
+# add the path to json file to the python file path
+import os
+cwd = os.chdir(os.path.join(os.getcwd(), "Cashflow"))
+
+
+
 
 # Load the data from the 2023.json file
-with open('2023.json') as f:
+with open('file.json') as f:
     data = json.load(f)
 
 # this is the format of the json file
