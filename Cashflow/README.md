@@ -1,13 +1,14 @@
 # Cashflow
 
-
+## cashflow and cumulitative 
 <img src="../assets/cashflow/Figure_1.png">
 
-<img src="finance/assets/cashflow/Figure_2.png">
+## Income flow
+<img src="../assets/cashflow/Figure_2.png">
 
+## Expenses flow
+<img src="../assets/cashflow/Figure_3.png">
 
-<img src="finance/assets/cashflow/Figure_3.png">
-
-
-<img src="finance/assets/cashflow/Figure_4.png">
+## Saving and investment flow
+<img src="../assets/cashflow/Figure_4.png">
 
